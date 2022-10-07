@@ -18,7 +18,7 @@ def insertion_sort(list1):
         return list1  
             # Driver code to test above  
   
-list1 = [10, 5, 13, 8, 2, 4, 6]  
+list1 = [10, 5, 13, 8, 2, 4, 6, 9]  
 print("The unsorted list is:", list1)  
   
 print("The sorted list1 is:", insertion_sort(list1))
